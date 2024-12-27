@@ -39,33 +39,7 @@ Hello, I'm **Sumaya Syed Abdul Kadhir**, an engineering student with a deep love
 
 ---
 
-## Art Collection
 
-### 1. **I’m OK!**  
-**Overview:**  
-This artwork depicts a chubby, cheerful cat confidently declaring, “I’m OK!” despite the chaos around it.  
-
-**Concept:**  
-A humorous reflection on staying positive in tough times. It represents resilience and optimism in the face of challenges.  
-
-**Details:**  
-- **Art Style:** Cartoonish, with bold outlines and expressive features.  
-- **Color Palette:** Bright pastels to evoke a cheerful and comforting vibe.  
-
----
-
-### 2. **Overtime-ing**  
-**Overview:**  
-This piece captures a relatable moment: a hardworking cat burning the midnight oil, fueled by coffee and determination.  
-
-**Concept:**  
-A playful representation of late-night productivity. It celebrates the dedication and hustle of night owls.  
-
-**Details:**  
-- **Art Style:** Whimsical with detailed elements like a glowing laptop screen and steaming coffee cup.  
-- **Color Palette:** Warm, earthy tones that reflect the cozy, late-night atmosphere.  
-
----
 
 ## My Artistic Philosophy  
 
